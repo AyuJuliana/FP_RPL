@@ -1,64 +1,57 @@
-🌐 FP_RPL
+# 🌐 FP_RPL
 
 FP_RPL is a full-stack web application developed using modern web technologies. The project focuses on implementing a structured web application with reusable components, database integration, and responsive user interfaces.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Next.js
+* Next.js
+* TypeScript
+* React
+* Prisma
+* Tailwind CSS
+* JavaScript
 
-TypeScript
+## ✨ Key Components
 
-React
+* Reusable React components
+* Custom hooks
+* Database integration using Prisma
+* Responsive styling with Tailwind CSS
+* Structured page-based routing
+* TypeScript-based development
 
-Prisma
-
-Tailwind CSS
-
-JavaScript
-
-✨ Key Components
-
-Reusable React components
-
-Custom hooks
-
-Database integration using Prisma
-
-Responsive styling with Tailwind CSS
-
-Structured page-based routing
-
-TypeScript-based development
-
-🚀 Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 
+```bash
 git clone https://github.com/AyuJuliana/FP_RPL.git
 cd FP_RPL
-
+```
 
 Install dependencies:
 
+```bash
 npm install
-
+```
 
 Configure the environment variables according to the project configuration.
 
-
-
 Run the development server:
 
+```bash
 npm run dev
-
+```
 
 Open the application at:
 
+```text
 http://localhost:3000
+```
 
+## 📂 Project Structure
 
-📂 Project Structure
-
+```text
 FP_RPL/
 ├── components/
 ├── hooks/
@@ -71,12 +64,10 @@ FP_RPL/
 ├── package.json
 ├── tailwind.config.js
 └── tsconfig.json
+```
 
+## 👩🏻‍💻 Author
 
-👩🏻‍💻 Author
-
-Ni Komang Ayu Juliana
-
-
+**Ni Komang Ayu Juliana**
 
 GitHub: https://github.com/AyuJuliana
